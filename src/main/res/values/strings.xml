@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="button1_text">Portrait of a Refugee</string>
+    <string name="button2_text">Watercolor Scream</string>
+    <string name="button3_text">The Kiss</string>
+    <string name="button4_text">Portrait of a Lamp</string>
+    <string name="button5_text">Portrait of a Girl</string>
+    <string name="title_text">RedMattina\n Paintings</string>
+    <string name="paintings_info1">Portrait of a Refugee using watercolors.</string>
+    <string name="paintings_info2">Abstract painting of a scream using watercolors.</string>
+    <string name="paintings_info3">Painting using watercolors and color pencils for the details.</string>
+    <string name="paintings_info4">Painting of a lamp using gouache and fine pen for the background.</string>
+    <string name="paintings_info5">Portrait of a girl using acrylics.</string>
+</resources>
